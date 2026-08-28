@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Stoxed, a Telegram bot for tracking stocks and crypto with AI-powered predictions<br>🤝 I'm looking to collaborate on: fintech or data-driven side projects, and anything hackathon-shaped<br>🌱 I'm looking for help with: system design and scaling backend stuff beyond "it works on my laptop"<br>🌳 I'm currently learning: software engineering fundamentals through my CS degree at NTU, and picking up more React Native along the way<br>💬 Ask me about: SummerBuild, Stoxed, or anything terminal-themed portfolio sites<br>⚡ Fun fact: I built my portfolio site with a working bubble-blowing cursor mode and a hidden terminal you can actually type commands into
+🔭 I'm currently working on: a Revere Job Finder site for both employees and employers<br>🤝 I'm looking to collaborate on: fintech or data-driven side projects, and anything hackathon-shaped<br>🌱 I'm looking for help with: system design and scaling backend stuff beyond "it works on my laptop"<br>🌳 I'm currently learning: software engineering fundamentals through my CS degree at NTU, and picking up more React Native along the way<br>💬 Ask me about: SummerBuild, Stoxed, or anything terminal-themed portfolio sites<br>⚡ Fun fact: I built my portfolio site with a working bubble-blowing cursor mode and a hidden terminal you can actually type commands into
 
 
 ## 🌐 Socials:
